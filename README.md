@@ -1,6 +1,7 @@
 ## About the Project:
 This is a Google Shopping Clone App made with Next.js 13 (Web Scrapping using Oxylabs, React.js, Tremor.io (React Library) and TypeScript)
 I've deployed it to my Vercel account, check it out by clicking [Here](https://oxylabs-google-shopping-clone-yt-kaustubhya-kaustubhya-s-team.vercel.app/)
+<br>
 To see the Video Demo, click [here](https://drive.google.com/file/d/1v3ZFHLcvcEJkuYL4A_MwdtMEPfO6-_Q2/view?usp=drive_link)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
